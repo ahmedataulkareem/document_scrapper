@@ -1,0 +1,5 @@
+selenium
+pillow
+pytesseract
+opencv-python-headless
+webdriver-manager
